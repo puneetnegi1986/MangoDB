@@ -1,4 +1,4 @@
-# MangoDB
+# How to Install and Configure MongoDB on Ubuntu ?
 Mango DB Tutorial
 
 
