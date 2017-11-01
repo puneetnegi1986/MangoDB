@@ -108,4 +108,8 @@ sudo service mongod restart
 and connect to the mongodb shell with this command:
 mongo -u admin -p admin123 --authenticationDatabase admin
 
+For GUI admin
 
+download studio3T  https://studio3t.com/download/
+go to bin folder and run ./studio-3t.sh command
+Now you can use GUI for managing your Mongodb.
